@@ -1,7 +1,7 @@
 # PublishToJcenter
 发布到jcenter路过各种坑，尝试了各个大神的文章一直跑步起来，这里综合一下
 
-##主要是针对新版本的Brantray的lib发布到Jcenter的Gradle脚本及属性文件.
+##主要是针对新版本的bintray，发布Android的lib发布Jcenter，需要的Gradle脚本及属性文件.
 
 `bintray.gradle`: 用于发布到JCenter的脚本。
 

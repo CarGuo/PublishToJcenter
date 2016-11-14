@@ -92,17 +92,17 @@ gradlew bintrayUpload
 
 ###6、 备注与问题 
 bintray上的创建:
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/001">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/002">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/003">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/004">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/005">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
-<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/006">
+<img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
 
 

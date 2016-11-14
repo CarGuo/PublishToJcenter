@@ -19,7 +19,7 @@ bintray的地址：https://bintray.com/ ，注册时候qq邮箱和163邮箱注�
 
 记住账号名以及API Key是bintray上传必须的。 
 
-目前我是放在了项目的gradle.properties下，需要的时候就填写了发布，各位如果有更好的办法可以提供下
+目前我是放在了项目的gradle.properties下，需要的时候就填写了发布，配置了一个ignore的文件不会上传，要用就复制过去，各位如果有更好的办法可以提供下
 ```
 BINTRAY_USER=bintray account name
 BINTRAY_KEY=bintray API Key

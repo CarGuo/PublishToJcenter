@@ -130,6 +130,7 @@ bintray上的创建:
 <p></p>
 <p></p>
 
+* 一般出现401，400，404的基本都是没有创建好repo和package，还有就是groupId不对，最后就是username和apikey正确就好了
 
 ##参考自
 

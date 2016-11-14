@@ -92,17 +92,33 @@ gradlew bintrayUpload
 
 ###6、 备注与问题 
 bintray上的创建:
+
+* 这里可以找到你的api key
+
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/001.jpg">
 <p></p>
+<p></p>
+
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/002.jpg">
 <p></p>
+<p></p>
+
+* 你需要先创建repo，不然会出现404找不到package，其中name可以根据你的喜欢来填写，后面对应配置到上面gradle.properties的的PROJ_USER_MAVEN
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/003.jpg">
 <p></p>
+<p></p>
+
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/004.jpg">
 <p></p>
+<p></p>
+
+
+* 你还需要再改repo下创建包，不然会出现404找不到package，主要添加name，后面对应配置到上面gradle.properties的PROJ_NAME
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/005.jpg">
 <p></p>
+<p></p>
 <img src= "https://github.com/CarGuo/PublishToJcenter/blob/master/readmeImg/006.jpg">
+<p></p>
 <p></p>
 
 

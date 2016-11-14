@@ -25,7 +25,7 @@ BINTRAY_USER=bintray account name
 BINTRAY_KEY=bintray API Key
 ```
 
-###2. project目录下的`build.gradle`文件，对应<a href="https://github.com/CarGuo/PublishToJcenter/blob/master/build.gradle">build.gradle></a>
+###2. project目录下的`build.gradle`文件，对应<a href="https://github.com/CarGuo/PublishToJcenter/blob/master/build.gradle">build.gradle</a>
 主要添加这个依赖
 ```
 buildscript {
@@ -39,7 +39,7 @@ buildscript {
 }
 ```
 ###3. 在lib的这个`build.gradle`的**底部**添加以下代码：
-    （一定要在底部，對應<a href="https://github.com/CarGuo/PublishToJcenter/blob/master/lib/build.gradle">build.gradle></a>
+    （一定要在底部，對應<a href="https://github.com/CarGuo/PublishToJcenter/blob/master/lib/build.gradle">build.gradle</a>
 主要添加这个依赖）
     apply from: './bintray.gradle'
 
@@ -89,6 +89,22 @@ gradlew bintrayUpload
 ```
 ###5. 将库加入Jcenter
 最后一步，需要登录bintray.com，将我们刚刚发布的库申请加入到jcenter，这样别人才能直接引用到。
+
+###6、 备注与问题 
+bintray上的创建:
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/001">
+<p></p>
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/002">
+<p></p>
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/003">
+<p></p>
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/004">
+<p></p>
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/005">
+<p></p>
+<img src= "https://github.com/CarGuo/PublishToJcenter/readmeImg/006">
+<p></p>
+
 
 ##参考自
 
